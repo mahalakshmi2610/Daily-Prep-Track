@@ -42,3 +42,9 @@ GROUP BY DeliveryStatus;
 SELECT * FROM orders
 ORDER BY Amount DESC
 LIMIT 2;
+
+# create a non-clustered index(secondary indexing - index table is created using candidate keys) on DeliveryStatus
+CREATE INDEX idx_status ON orders(DeliveryStatus);
+
+# running a query to observe result after indexing
+SELECT * FROM orders WHERE DeliveryStatus = 'Pending';
