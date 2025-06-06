@@ -1,58 +1,59 @@
-🌟 Reflection Notes – Day 2
-DSA – Sliding Window
-Sliding Window Technique → Efficiently solves problems involving subarrays/substrings/ranges.
+# ✨ Reflection Notes – Day 2
 
-Maintains a window of size k that slides through the array/string.
+---
 
-Avoids recomputation compared to brute-force.
+## DSA – Sliding Window
 
-Common in: max/min subarray sum, number of substrings, pattern matching.
+**Concept:** Efficient technique for solving problems involving subarrays, substrings, or ranges.
 
-🗂️ DBMS – Indexing
-Indexing → Improves data retrieval speed by avoiding full table scans.
+- Maintains a window of size `k` and slides it across the array/string.
+- Avoids recomputation → faster than brute-force.
+- Typical use cases:
+  - Maximum/minimum subarray sum
+  - Number of substrings with a given property
+  - Pattern matching
 
-Search Key → Column value used in the index.
+---
 
-Data Reference / Block Pointer → Points to actual data row.
+## 🗂️ DBMS – Indexing
 
-Tradeoff: Speeds up SELECT; can slow down INSERT/UPDATE/DELETE due to index maintenance.
+**Purpose:** Improve query performance by avoiding full table scans.
 
-SQL Example:
+- **Search Key:** Column value to index.
+- **Data Reference / Block Pointer:** Points to actual data row.
 
-sql
-Copy
-Edit
+**Tradeoff:**  
+✅ Faster `SELECT` queries  
+⚠️ Slightly slower `INSERT`, `UPDATE`, `DELETE` due to index maintenance.
+
+**Example Query:**
+```sql
+CREATE INDEX idx_status ON orders(DeliveryStatus);
 SELECT * FROM orders WHERE DeliveryStatus = 'Delivered';
-→ Fast with index on DeliveryStatus.
 
-🐍 Python – Data Cleaning
-Data Cleaning → Prepares data for accurate analysis by fixing errors and inconsistencies.
+🐍 Python – Data Cleaning (Pandas)
+Goal: Prepare data for reliable analysis by fixing errors/inconsistencies.
 
-Remove duplicates → df.drop_duplicates()
+🗑️ Remove duplicates
+df.drop_duplicates()
 
-Handle missing values → df['col'].fillna(0)
+🧮 Handle missing values
+df['column'].fillna(0)
 
-Convert data types → pd.to_datetime(df['Date'])
+🕒 Convert data types
+pd.to_datetime(df['Date'])
 
-Trim whitespaces → df['col'].str.strip()
+🧹 Trim whitespaces
+df['column'].str.strip()
 
-Standardize text → df['col'].str.lower()
+🔡 Standardize text
+df['column'].str.lower()
 
-🗃️ SQL – Basic Queries + Indexing Relevance
-Practiced:
+---
+# 📝 Summary
 
-GROUP BY, SUM, DISTINCT, ORDER BY
+✅ DSA: Sliding Window technique.
 
-Example:
+✅ DBMS: Indexing concepts and tradeoffs.
 
-sql
-Copy
-Edit
-SELECT DeliveryStatus, COUNT(*) FROM orders GROUP BY DeliveryStatus;
-Indexing improves such queries when filtering/sorting on indexed columns.
-
-Summary
-✅ Sliding Window for subarray/substring problems.
-✅ Indexing concept and tradeoffs in DBMS.
-✅ Python Data Cleaning using Pandas.
-✅ SQL Aggregation and relevance of Indexing.
+✅ Python: Common Data Cleaning techniques using Pandas.
