@@ -27,9 +27,10 @@
 **Example Query:**
 ```sql
 CREATE INDEX idx_status ON orders(DeliveryStatus);
+```sql
 SELECT * FROM orders WHERE DeliveryStatus = 'Delivered';
-```
 
+---
 **🐍 Python – Data Cleaning (Pandas)**
 Goal: Prepare data for reliable analysis by fixing errors/inconsistencies.
 
@@ -48,7 +49,8 @@ df['column'].str.strip()
 🔡 Standardize text
 df['column'].str.lower()
 
-# 📝 Summary
+---
+**📝 Summary**
 
 ✅ DSA: Sliding Window technique.
 
