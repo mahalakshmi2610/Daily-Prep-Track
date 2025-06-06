@@ -35,7 +35,7 @@ Welcome to my daily preparation journey for becoming job-ready. This repository 
 
 ### 📂 Folder Structure
 
-Practice-Files/
+Daily-Prep-Track/
 │
 ├── DSA-Java/
 ├── Python-Scripting/
