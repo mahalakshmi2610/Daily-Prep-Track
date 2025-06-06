@@ -29,14 +29,15 @@
 **Example Query:**
 ```sql
 CREATE INDEX idx_status ON orders(DeliveryStatus);
-
+```
+```sql
 SELECT * FROM orders WHERE DeliveryStatus = 'Delivered';
+```
 
-
-🐍 Python – Data Cleaning (Pandas)
+**🐍 Python – Data Cleaning (Pandas)**
 Goal: Prepare data for reliable analysis by fixing errors/inconsistencies.
 
-Common techniques:
+**Common techniques:**
 
 🗑️ Remove duplicates
 df.drop_duplicates()
@@ -53,7 +54,7 @@ df['column'].str.strip()
 🔡 Standardize text
 df['column'].str.lower()
 
-📝 Summary
+**📝 Summary**
 ✅ DSA: Sliding Window technique.
 ✅ DBMS: Indexing concepts and tradeoffs.
 ✅ Python: Common Data Cleaning techniques using Pandas.
