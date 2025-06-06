@@ -34,6 +34,7 @@ CREATE INDEX idx_status ON orders(DeliveryStatus);
 SELECT * FROM orders WHERE DeliveryStatus = 'Delivered';
 ```
 
+---
 **🐍 Python – Data Cleaning (Pandas)**
 
 Goal: Prepare data for reliable analysis by fixing errors/inconsistencies.
