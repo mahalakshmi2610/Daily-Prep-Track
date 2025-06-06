@@ -1,48 +1,17 @@
-# 💼 Job-Ready Track – Day-wise Prep for Interviews
+# 💼 Job-Ready Track – Day-wise Prep for TCS & Data Engineering Interviews
 
-Welcome to my daily preparation journey for becoming job-ready. This repository contains hands-on practice in DSA (Java), Python scripting, SQL, and core CS concepts — tracked and organized by day.
-
+## 🗂️ Overview
+This repo contains my daily learning journey with hands-on DSA, Python, SQL, and CS concepts, to become job-ready and interview-prepared.
 ---
 
-## 📅 Day 1 – Summary
-
-**✅ Tasks Completed:**
-- Solved 3 DSA problems in Java:
-  - Reverse Array
-  - Move Zeros
-  - Two Sum
-- Revised core OS concept: Process vs Thread (with real-world analogy)
-- Performed Python scripting using `pandas`:
-  - Filtering, grouping, and date-based analysis on online orders dataset
-- Executed SQL queries on mock `orders` table:
-  - Filtering, aggregation, grouping, sorting
-- Daily GitHub commit + written reflection
-
+## 📅 Day-wise Progress
+### Day 1
+✅ Java DSA (3 problems), OS (Processes vs Threads), Python (filtering, grouping), SQL queries  
+🧠 Key concepts: boolean indexing(Python Pandas), memory sharing in threads, SQL grouping  
+📝 [Full Reflection](./Reflection-Notes/Day1.md)
 ---
 
-## 🧠 Key Concepts Revised:
-- Threads share memory; processes don’t.
-- Context switching is faster for threads.
-- Python DataFrame filtering via boolean indexing (`df[df[col] == val]`)
-- SQL: `SUM()`, `DISTINCT`, `GROUP BY`, `LIMIT`, `WHERE`
-
----
-
-## 💬 Reflection (Day 1)
-> I’ve started strong with DSA, Python, SQL, and CS revision. Now that my base is set, I aim to gradually build real-world projects and polish communication and GitHub hygiene.
-
----
-
-### 📂 Folder Structure
-
-Daily-Prep-Track/
-│
-├── DSA-Java/
-├── Python-Scripting/
-├── Reflection-Notes/
-├── SQL-Practice/
-├── Visualizaton-Tools/
-├── .gitignore
-└── README.md
+## 🛠️ Technologies Practiced
+Java, Python, SQL, Pandas, Git, Operating Systems, DBMS.
 
 Stay tuned for more days! 🚀
