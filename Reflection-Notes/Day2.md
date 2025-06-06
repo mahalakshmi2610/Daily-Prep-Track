@@ -1,6 +1,6 @@
-# ✨ Reflection Notes – Day 2
+# Day 2 - Reflection
 
-## 🏆 DSA – Sliding Window
+## DSA – Sliding Window
 
 **Concept:** Efficient technique for solving problems involving subarrays, substrings, or ranges.
 
@@ -35,6 +35,7 @@ SELECT * FROM orders WHERE DeliveryStatus = 'Delivered';
 ```
 
 **🐍 Python – Data Cleaning (Pandas)**
+
 Goal: Prepare data for reliable analysis by fixing errors/inconsistencies.
 
 **Common techniques:**
@@ -54,7 +55,11 @@ df['column'].str.strip()
 🔡 Standardize text
 df['column'].str.lower()
 
+---
 **📝 Summary**
+
 ✅ DSA: Sliding Window technique.
+
 ✅ DBMS: Indexing concepts and tradeoffs.
+
 ✅ Python: Common Data Cleaning techniques using Pandas.
