@@ -1,29 +1,19 @@
-📅 Day 1 – Reflection
+# 📅 Day 1 – Reflection
 
-Tasks Done:
+## ✅ Tasks Completed
+- 3 Java DSA Problems: Reverse Array, Move Zeros, Two Sum
+- OS Concepts: Process vs Thread with analogy
+- Python DataFrame practice on online orders
+- SQL filtering, grouping, ordering
+- Daily GitHub commit
 
-✅ Solved 3 DSA problems (Java): Reverse Array, Two Sum, Move Zeroes
+## 💡 Learnings
+- Threads share memory, processes don't
+- Python's `df[df[col] == val]` is boolean indexing
+- SQL: `GROUP BY` is used with aggregation like COUNT
 
-✅ Revised Processes vs Threads (OS) with examples and key differences
+## 😌 Experience
+Felt confident completing all tasks. Learned to break down problems and explain OS concepts clearly. Need to review context switching in depth.
 
-✅ Wrote Python script using pandas for filtering, grouping, and datetime
-
-✅ Wrote and tested SQL queries (filter, sum, group, sort) on online orders
-
-✅ Committed code to GitHub
-
-What I learned:
-
-Difference between thread vs process and how context switching works
-
-Boolean indexing in pandas
-
-Basic SQL operations and how to work with real-world-like data
-
-What I’ll improve tomorrow:
-
-Practice deeper SQL joins or pandas merge
-
-Revise another core CS concept (maybe DBMS)
-
-Start thinking about project work (backend or UI+viz)
+## 🔁 Plan
+Revisit OS scheduling next time. Explore real-world Python datasets beyond online orders in Day 2.
