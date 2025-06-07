@@ -5,6 +5,8 @@
 [![GitHub last commit](https://img.shields.io/github/last-commit/mahalakshmi2610/Daily-Prep-Track)](https://github.com/mahalakshmi2610/Daily-Prep-Track/commits/main)
 
 ![GitHub commit activity](https://img.shields.io/github/commit-activity/m/mahalakshmi2610/Daily-Prep-Track?color=brightgreen&label=Commit%20Activity&style=for-the-badge)
+![GitHub last commit](https://img.shields.io/github/last-commit/mahalakshmi2610/Daily-Prep-Track?style=for-the-badge&color=success)
+
 
 
 ---
