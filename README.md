@@ -1,8 +1,5 @@
 # 💼 Job-Ready Track – Day-wise Prep for TCS & Data Engineering Interviews
 
-[![GitHub repo stars](https://img.shields.io/github/stars/mahalakshmi2610/Daily-Prep-Track?style=social)](https://github.com/mahalakshmi2610/Daily-Prep-Track/stargazers)
-[![GitHub forks](https://img.shields.io/github/forks/mahalakshmi2610/Daily-Prep-Track?style=social)](https://github.com/mahalakshmi2610/Daily-Prep-Track/network/members)
-
 ![GitHub commit activity](https://img.shields.io/github/commit-activity/m/mahalakshmi2610/Daily-Prep-Track?color=brightgreen&label=Commit%20Activity&style=for-the-badge)
 ![GitHub last commit](https://img.shields.io/github/last-commit/mahalakshmi2610/Daily-Prep-Track?style=for-the-badge&color=success)
 
