@@ -1,0 +1,8 @@
+OrderID,Product,CustomerName,Amount,Date,DeliveryStatus
+1001,Wireless Mouse,Arjun,599,2024-01-15,Delivered
+1002,Laptop Sleeve,Mahima,899,2024-02-10,Pending
+1003,USB Cable,John,199,2024-01-05,Delivered
+1004,Bluetooth Speaker,Shreya,1299,2024-03-01,Cancelled
+1005,Webcam,Anil,1799,2024-02-18,Delivered
+1006,Laptop Stand,Sneha,1099,2024-04-20,Pending
+1007,Wired Headphone,Mahalakshmi,299,2024-02-28,Pending
