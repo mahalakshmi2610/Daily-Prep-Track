@@ -34,6 +34,13 @@ This repo contains my daily learning journey with hands-on DSA, Python, SQL, and
 
 ---
 
+### Day 4
+✅ Java DSA (Two Pointers - Medium level Problem), OS (CPU Scheduling Algorithms) 
+🧠 Key concepts: Learned how two pointers work in a given array, things to take care while designing a CPU scheduling algorithm, different CPU scheduling algorithms. 
+📝 [Full Reflection](./Reflection-Notes/Day3.md)
+
+---
+
 ## 🛠️ Technologies Practiced
 Java, Python, SQL, Pandas, Git, Operating Systems, DBMS, Computer Networks.
 
