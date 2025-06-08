@@ -1,10 +1,5 @@
 # 💼 Job-Ready Track – Day-wise Prep for TCS & Data Engineering Interviews
 
-![GitHub commit activity](https://img.shields.io/github/commit-activity/m/mahalakshmi2610/Daily-Prep-Track?color=brightgreen&label=Commit%20Activity&style=for-the-badge)
-![GitHub last commit](https://img.shields.io/github/last-commit/mahalakshmi2610/Daily-Prep-Track?style=for-the-badge&color=success)
-
-
-
 ---
 
 ## 🗂️ Overview
@@ -36,8 +31,10 @@ This repo contains my daily learning journey with hands-on DSA, Python, SQL, and
 ---
 
 ### Day 4
-✅ Java DSA (Two Pointers - Medium level Problem), OS (CPU Scheduling Algorithms) 
+✅ Java DSA (Two Pointers - Medium level Problem), OS (CPU Scheduling Algorithms)
+
 🧠 Key concepts: Learned how two pointers work in a given array, things to take care while designing a CPU scheduling algorithm, different CPU scheduling algorithms.
+
 📝 [Full Reflection](./Reflection-Notes/Day4.md)
 
 ---
