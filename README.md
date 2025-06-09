@@ -35,6 +35,16 @@ This repo contains my daily learning journey with hands-on DSA, Python, SQL, and
 
 ---
 
+### Day 5
+✅ Java DSA (Prefix Sum, Hash Table uses), OS (Paging vs Segmentation), Python (Mini ETL Pipeline), SQL (Advanced Query for Mini Data Mart Schema)   
+🧠 Key concepts: Working of Prefix Sum and Hash Map in the case of subarrays with sum equals to k problem,     
+                 Logical Address to Physical Address in Segmentation,     
+		 Use of agg, sort_values, rename functions in pandas, deal with encoding errors in csv files,       
+		 FK constraints error handling.     
+📝 [Full Reflection](./Reflection-Notes/Day5.md)   
+
+---
+
 ## 🛠️ Technologies Practiced
 Java, Python, SQL, Pandas, Git, Operating Systems, DBMS, Computer Networks.
 
