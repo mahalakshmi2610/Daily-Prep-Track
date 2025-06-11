@@ -1,4 +1,4 @@
-# ✨ Reflection Notes – Day 4
+#  📅 Day 4 – Reflection
 
 ## DSA – Two Pointers
 

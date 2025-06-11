@@ -1,4 +1,4 @@
-# ✨ Reflection Notes – Day 3
+#  📅 Day 3 – Reflection
 
 ## DSA – Two Pointers
 

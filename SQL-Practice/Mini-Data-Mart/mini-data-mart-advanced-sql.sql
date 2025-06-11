@@ -70,9 +70,31 @@ INSERT INTO order_items (order_id, product_id, quantity) VALUES
 
 -- Top 3 customers by total spend
 SELECT c.customer_name, SUM(o.total_amount) as total_spend 
-FROM orders o
-JOIN customers c ON o.customer_id = c.customer_id
-GROUP BY o.customer_id
+FROM customers c
+JOIN orders o ON c.customer_id = o.customer_id
+GROUP BY c.customer_id
 ORDER BY total_spend DESC
 LIMIT 3;
  
+-- Most popular product by number of orders
+SELECT p.product_name AS popular_product, COUNT(oi.order_id) AS num_orders
+FROM products p
+JOIN order_items oi ON p.product_id = oi.product_id
+GROUP BY p.product_id
+ORDER BY num_orders DESC
+LIMIT 1;
+
+-- Revenue by region
+SELECT c.region, SUM(o.total_amount) AS revenue 
+FROM customers c
+JOIN orders o ON c.customer_id = o.customer_id
+GROUP BY c.region
+ORDER BY revenue DESC;
+
+-- Average order size by customer
+SELECT c.customer_name, AVG(o.total_amount) AS avg_order_size
+FROM customers c
+JOIN orders o ON c.customer_id = o.customer_id
+GROUP BY c.customer_id
+ORDER BY avg_order_size DESC;
+

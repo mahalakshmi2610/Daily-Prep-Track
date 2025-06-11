@@ -35,10 +35,17 @@ This repo contains my daily learning journey with hands-on DSA, Python, SQL, and
 
 ---
 
-### Day 5
-✅ Java DSA (Prefix Sum, Hash Table uses), OS (Paging vs Segmentation), Python (Mini ETL Pipeline), SQL (Advanced Query for Mini Data Mart Schema)   
-🧠 Key concepts: Working of Prefix Sum and Hash Map in the case of subarrays with sum equals to k problem, Logical Address to Physical Address in Segmentation, Use of agg, sort_values, rename functions in pandas, deal with encoding errors in csv files, FK constraints error handling.     
-📝 [Full Reflection](./Reflection-Notes/Day5.md)   
+### Day 5  
+✅ Java DSA (Prefix Sum + Hash Map), OS (Paging vs Segmentation), Python (ETL with Pandas), SQL (Mini Data Mart Queries)  
+🧠 Key concepts: Subarray sum logic using prefix sum, address translation in memory management, data aggregation with pandas, handling CSV encoding and foreign key errors.  
+📝 [Full Reflection](./Reflection-Notes/Day5.md)  
+
+---
+
+### Day 6  
+✅ Java DSA (Sliding Window - Medium level Problem), DBMS (ACID, Transactions), Python (Customer Profitability Modeling), SQL (Advanced Queries)  
+🧠 Key concepts: Strengthened sliding window logic using HashSet, understood ACID properties and transaction states, modeled sales/profit per customer from raw data, and answered real-world business queries using SQL joins and aggregations.  
+📝 [Full Reflection](./Reflection-Notes/Day6.md)   
 
 ---
 
