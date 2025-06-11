@@ -72,6 +72,6 @@
 
 ✅ DSA: Sliding Window + HashSet Problem  
 ✅ DBMS: ACID properties, Transaction states, Concurrency Control problems  
-✅ Python: Data modeling
+✅ Python: Data modeling  
 ✅ SQL: Joins and Aggregation
 ---

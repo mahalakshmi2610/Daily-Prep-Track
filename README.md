@@ -43,8 +43,8 @@ This repo contains my daily learning journey with hands-on DSA, Python, SQL, and
 ---
 
 ### Day 6  
-✅ Java DSA (Sliding Window - Medium level Problem), DBMS (ACID, Transactions), Python (Customer Profitability Modeling), SQL (Advanced Queries)  
-🧠 Key concepts: Strengthened sliding window logic using HashSet, understood ACID properties and transaction states, modeled sales/profit per customer from raw data, and answered real-world business queries using SQL joins and aggregations.  
+✅ Java DSA (Sliding Window), DBMS (ACID, Transactions), Python (Customer Modeling), SQL (Business Queries)  
+🧠 Key concepts: Unique substring logic with HashSet, core DBMS properties, customer-wise profit modeling, and SQL joins with aggregations.  
 📝 [Full Reflection](./Reflection-Notes/Day6.md)   
 
 ---
