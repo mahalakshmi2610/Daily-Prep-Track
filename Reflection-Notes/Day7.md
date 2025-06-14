@@ -10,7 +10,7 @@
 1. [LeetCode 347: Top K Frequent Elements](https://leetcode.com/problems/top-k-frequent-elements/)
 2. [LeetCode 49: Group Anagrams](https://leetcode.com/problems/group-anagrams/)
 
-**What I did:**
+**What I did:**    
 ✔ Practiced using `HashMap` + `PriorityQueue`  
 ✔ Solved problem using min-heap (top K frequent)  
 ✔ Used sorted string as key for grouping anagrams  
@@ -32,7 +32,7 @@
 - UDP Characteristics → connectionless, low overhead-(additional resources needed to run tasks)
 - Real-world apps: WhatsApp voice (UDP), YouTube stream (TCP)
 
-**Reflection:**
+**Reflection:**        
 ✔ Visualized how handshake works  
 ✔ Learned real difference in protocols  
 ✔ Mapped protocols to actual use cases for interviews
@@ -47,7 +47,7 @@
 - Enhanced to multiple customers using loop
 - Printed output in table format
 
-**Reflection:**
+**Reflection:**     
 ✔ Confident in parsing nested JSON  
 ✔ Better understanding of dictionary traversal  
 ✔ Practiced list of tuples and formatting output

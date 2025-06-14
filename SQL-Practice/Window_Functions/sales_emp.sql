@@ -16,8 +16,8 @@ INSERT INTO Sales VALUES
 
 -- Window Functions
 -- Running total of sales by employee
-SELECT 
-	emp_id,
+SELECT
+    emp_id,
     date, 
     amount,
     SUM(amount) OVER (
@@ -29,8 +29,8 @@ FROM Sales;
 
 
 -- Rank of sales amount within employee
-SELECT 
-	emp_id,
+SELECT
+    emp_id,
     date,
     amount,
     RANK() OVER(
