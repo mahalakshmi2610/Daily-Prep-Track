@@ -49,6 +49,13 @@ This repo contains my daily learning journey with hands-on DSA, Python, SQL, and
 
 ---
 
+### Day 7  
+✅ Java DSA (Top K Frequent, Group Anagrams), CN (TCP/UDP, 3-Way Handshake), Python (JSON Parsing), SQL (Window Functions)  
+🧠 Key Concepts: Frequency Map + Heap, Anagram Grouping, Protocol Differences, JSON extraction, SQL Ranking  
+📝 [Full Reflection](./Reflection-Notes/Day7.md)
+
+---
+
 ## 🛠️ Technologies Practiced
 Java, Python, SQL, Pandas, Git, Operating Systems, DBMS, Computer Networks.
 
