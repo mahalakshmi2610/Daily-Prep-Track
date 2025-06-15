@@ -56,6 +56,13 @@ This repo contains my daily learning journey with hands-on DSA, Python, SQL, and
 
 ---
 
+### Day 8  
+✅ Java DSA (Heap-based Frequency Sort), OS (Deadlocks & Prevention Strategies), Python (CSV to SQLite ETL), SQL (GROUP BY + HAVING)  
+🧠 Key concepts: PriorityQueue sorting logic, Coffman’s conditions, real-world deadlock examples, CSV schema validation, SQL group filtering  
+📝 [Full Reflection](./Reflection-Notes/Day8.md)
+
+---
+
 ## 🛠️ Technologies Practiced
 Java, Python, SQL, Pandas, Git, Operating Systems, DBMS, Computer Networks.
 
