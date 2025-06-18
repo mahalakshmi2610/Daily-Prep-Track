@@ -63,6 +63,13 @@ This repo contains my daily learning journey with hands-on DSA, Python, SQL, and
 
 ---
 
+### Day 9  
+✅ Java DSA (Bucket-based Frequency Sort), OS (Disk Scheduling Algorithms), Python (JSON to SQLite ETL), SQL (Subqueries, CASE, NULL Handling)  
+🧠 Key concepts: Bucket frequency grouping, FCFS/SSTF/SCAN/LOOK disk strategies, safe JSON-DB insertions, smart NULL-safe SQL conditions  
+📝 [Full Reflection](./Reflection-Notes/Day9.md)
+
+---
+
 ## 🛠️ Technologies Practiced
 Java, Python, SQL, Pandas, Git, Operating Systems, DBMS, Computer Networks.
 

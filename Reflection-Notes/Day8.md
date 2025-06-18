@@ -23,17 +23,15 @@
 
 ## ✅ Task 2: Core CS – OS (Deadlock and Prevention Strategies)
 
-**Topics Studied:**  
-- What is a deadlock and how it happens  
-- The 4 Coffman conditions: Mutual Exclusion, Hold & Wait, No Preemption, Circular Wait  
-- Prevention, avoidance, and detection strategies  
-- Real-world analogies: traffic deadlock, banking, Java thread locks  
+**Learning:**
 
-**Reflection:**  
-✔ Understood how deadlocks are formed in system resources  
-✔ Differentiated prevention vs avoidance  
-✔ Related concepts with databases and multithreading  
-✔ Interview-ready with short Q&A
+- Studied Coffman’s 4 necessary conditions for deadlocks.
+- Understood 3 major strategies:
+  - Prevention (e.g., no hold and wait)
+  - Avoidance (e.g., Banker's Algorithm)
+  - Detection & Recovery
+- Connected real-world analogies like traffic gridlocks and database row locks.
+- Refreshed previously learned concepts through review and storytelling.
 
 ---
 
