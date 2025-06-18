@@ -20,3 +20,6 @@ Thumbs.db
 
 # Ignore Node-related (just in case)
 node_modules/
+
+# Ignore .db files
+*.db
