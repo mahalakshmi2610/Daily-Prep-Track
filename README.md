@@ -70,6 +70,13 @@ This repo contains my daily learning journey with hands-on DSA, Python, SQL, and
 
 ---
 
+### Day 10  
+✅ Java DSA (Next Greater Element I), Core CS (CAP Theorem), Python (SQLite to CSV Exporter), SQL (JOIN + CASE + IFNULL)  
+🧠 Key concepts: Monotonic Stack + HashMap, distributed DB tradeoffs, exporting DB data via Python, SQL joins and classification logic  
+📝 [Full Reflection](./Reflection-Notes/Day10.md)
+
+---
+
 ## 🛠️ Technologies Practiced
 Java, Python, SQL, Pandas, Git, Operating Systems, DBMS, Computer Networks.
 
