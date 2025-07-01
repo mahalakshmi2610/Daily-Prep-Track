@@ -63,7 +63,7 @@
 ## 🧠 Summary:
 
 ✅ Java DSA: Monotonic Stack + HashMap  
-✅ Core CS: CAP Theorem
+✅ Core CS: CAP Theorem  
 ✅ Python: SQLite Data Exporter  
 ✅ SQL: Multi-table JOINs with classification logic
 
