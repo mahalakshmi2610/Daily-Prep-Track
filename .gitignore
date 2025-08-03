@@ -23,3 +23,19 @@ node_modules/
 
 # Ignore .db files
 *.db
+
+# === Spring Boot and Java Build ===
+/target/
+*.jar
+*.war
+*.log
+*.tmp
+*.pid
+
+# Embedded database files
+*.h2.db
+*.mv.db
+
+# Spring config files (optional - if you use local/dev-only files)
+application-local.properties
+application-dev.properties
